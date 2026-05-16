@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Env / secrets
+.env
+.env.local
+.llm-env
+
+# Logs
+*.log
+
+# Temp
+tmp/
+*.tmp
+
+# Candidate brief (local only — do not publish)
+summit-pfm-brs.md
+summit-pfm-dashboard.html
